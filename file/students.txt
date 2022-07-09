@@ -1,0 +1,2 @@
+studnet name : daniel
+student age : 22
